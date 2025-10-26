@@ -1,6 +1,6 @@
 # Elnar
 ### 📊 Profile Views
-![](https://komarev.com/ghpvc/?username=ibrahimmdef&color=3b82f6&style=for-the-badge&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=elnarturabov&color=3b82f6&style=for-the-badge&label=Profile+Views)
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -36,21 +36,21 @@
 
 <div align="center">
   
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ibrahimmdef&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true&rank_icon=github&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&custom_title=GitHub%20Statistics" alt="GitHub Stats"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=elnarturabov&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true&rank_icon=github&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&custom_title=GitHub%20Statistics" alt="GitHub Stats"/>
   
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimmdef&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6&hide=html,css&title_color=58A6FF&text_color=C9D1D9&custom_title=Most%20Used%20Languages" alt="Top Languages"/>
-  
-</div>
-
-<div align="center">
-  
-  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimmdef&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&dates=8B949E" alt="GitHub Streak"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elnarturabov&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6&hide=html,css&title_color=58A6FF&text_color=C9D1D9&custom_title=Most%20Used%20Languages" alt="Top Languages"/>
   
 </div>
 
 <div align="center">
   
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ibrahimmdef&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF" alt="Contribution Graph"/>
+  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=elnarturabov&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&dates=8B949E" alt="GitHub Streak"/>
+  
+</div>
+
+<div align="center">
+  
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=elnarturabov&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF" alt="Contribution Graph"/>
   
 </div>
 
@@ -58,7 +58,7 @@
 ## 📅 Contribution Calendar
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/3b82f6/ibrahimmdef" alt="GitHub Contributions" width="95%" style="max-width:1200px;"/>
+  <img src="https://ghchart.rshah.org/3b82f6/elnarturabov" alt="GitHub Contributions" width="95%" style="max-width:1200px;"/>
 </div>
 
 ---
