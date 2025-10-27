@@ -4,7 +4,6 @@
 # Elnar
 
 <div/>
----
   
 #🛠️ Tech Stack
   
