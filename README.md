@@ -5,7 +5,7 @@
 
 <div/>
 
-<div style="display:flex;">
+<div style="display:flex">
 <div align="left">
 
 # 📊 Profile Views 
