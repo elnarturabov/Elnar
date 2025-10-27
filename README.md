@@ -1,9 +1,8 @@
 <div align="center">  
   
 # 👨‍💻Elnar Turabov
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&random=false&width=800&lines=%F0%9F%9A%80+Full+Stack+Developer;%F0%9F%92%BB+Code+Creator+%26+Problem+Solver;%E2%9C%A8+Building+Dreams+into+Reality;%F0%9F%94%A5+Always+Learning+%26+Growing)](https://git.io/typing-svg)
 <div/>
-
 <div>
 <div align="left" witdh="45%">
 
