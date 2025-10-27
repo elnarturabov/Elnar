@@ -12,7 +12,7 @@
   
 ![](https://komarev.com/ghpvc/?username=elnarturabov&color=3b82f6&style=for-the-badge&label=Profile+Views)
 </div>
-<img loading="lazy" " width="240" height="160" src="	https://nationalcioreview.com/wp-content/uploads/2025/09/TNCR-graphics-KB-2.gif" class="attachment-large size-large wp-image-69517" alt="">
+<img loading="lazy" " width="240" height="160" src="https://github.com/elnarturabov/elnarturabov/blob/main/TNCR-graphics-KB-2.gif" class="attachment-large size-large wp-image-69517" alt="">
   
 ### 🛠️ Tech Stack
   
