@@ -4,18 +4,18 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&random=false&width=800&lines=%F0%9F%9A%80+Full+Stack+Developer;%F0%9F%92%BB+Code+Creator+%26+Problem+Solver;%E2%9C%A8+Building+Dreams+into+Reality;%F0%9F%94%A5+Always+Learning+%26+Growing)](https://git.io/typing-svg)
 <div/>
 <div>
-<div align="left" witdh="45%">
+<div align="left" >
 
 # 📊 Profile Views 
   
 ![](https://komarev.com/ghpvc/?username=elnarturabov&color=3b82f6&style=for-the-badge&label=Profile+Views)
 </div>
 <img loading="lazy" align="right" " width="400" height="300" src="https://github.com/elnarturabov/elnarturabov/blob/main/TNCR-graphics-KB-2.gif" class="attachment-large size-large wp-image-69517" alt="">
-<br/>
+
   
 ### 🛠️ Tech Stack
   
-<div align="center" width="100%">
+<div align="center" >
 
 ## Frontend
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" alt="HTML5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" alt="CSS3"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" alt="React"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="60" height="60" alt="jQuery"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60" height="60" alt="Bootstrap"/>
