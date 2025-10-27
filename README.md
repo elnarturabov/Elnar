@@ -53,6 +53,8 @@
   
 </div>
 
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
 <div align="center">
   
   <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=elnarturabov&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&dates=8B949E" alt="GitHub Streak"/>
