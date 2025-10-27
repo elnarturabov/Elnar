@@ -6,7 +6,7 @@
 <div/>
 
 <div style="border-radius:20px;">
-  <img loading="lazy" " width="300" height="200" src="https://i.gifer.com/fzPJ.gif" class="attachment-large size-large wp-image-69517" alt="">
+  <img loading="lazy" " width="240" height="160" src="https://i.gifer.com/fzPJ.gif" class="attachment-large size-large wp-image-69517" alt="">
 </div>
   
 ### 🛠️ Tech Stack
