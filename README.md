@@ -12,8 +12,9 @@
   
 ![](https://komarev.com/ghpvc/?username=elnarturabov&color=3b82f6&style=for-the-badge&label=Profile+Views)
 </div>
-  
-  <img loading="lazy" " width="240" height="160" src="https://i.gifer.com/fzPJ.gif" class="attachment-large size-large wp-image-69517" alt="">
+
+<img loading="lazy" " width="240" height="160" src="https://i.gifer.com/fzPJ.gif" class="attachment-large size-large wp-image-69517" alt="">
+
 </div>
   
 ### 🛠️ Tech Stack
