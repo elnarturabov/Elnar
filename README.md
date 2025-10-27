@@ -4,6 +4,11 @@
 # Elnar
 
 <div/>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/XXX/giphy.gif" alt="Açıqlama" width="400"/>
+
+</p>
   
 ### 🛠️ Tech Stack
   
