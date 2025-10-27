@@ -6,7 +6,7 @@
 <div/>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/XXX/giphy.gif" alt="Açıqlama" width="400"/>
+  <img src="https://nationalcioreview.com/wp-content/uploads/2025/09/TNCR-graphics-KB-2.gif/>
 
 </p>
   
