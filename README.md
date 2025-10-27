@@ -1,17 +1,9 @@
 
 <div align="center">
-
 # Elnar
-<div align="left">
-#📊 Profile Views 
-  
-![](https://komarev.com/ghpvc/?username=elnarturabov&color=3b82f6&style=for-the-badge&label=Profile+Views)
-</div>
 <div/>
-  
-
+---
 ## 🛠️ Tech Stack
-
 <div align="center">
 
 ### Frontend
@@ -39,7 +31,11 @@
 ![Render](https://img.shields.io/badge/Render-0467DF?style=for-the-badge&logo=render&logoColor=white)
 
 </div>
-
+<div align="left">
+#📊 Profile Views 
+  
+![](https://komarev.com/ghpvc/?username=elnarturabov&color=3b82f6&style=for-the-badge&label=Profile+Views)
+</div>
 ---
 ## 📊 GitHub Statistics
 
