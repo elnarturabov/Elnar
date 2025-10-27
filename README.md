@@ -1,18 +1,18 @@
 
 <div align="center">
   
-# Elnar
+# Elnar Turabov
 
 <div/>
 
 <div>
-<div align="left">
+<div align="left" witdh="45%">
 
 # 📊 Profile Views 
   
 ![](https://komarev.com/ghpvc/?username=elnarturabov&color=3b82f6&style=for-the-badge&label=Profile+Views)
 </div>
-<img loading="lazy" " width="240" height="160" src="https://github.com/elnarturabov/elnarturabov/blob/main/TNCR-graphics-KB-2.gif" class="attachment-large size-large wp-image-69517" alt="">
+<img loading="lazy" " width="30%" height="160" src="https://github.com/elnarturabov/elnarturabov/blob/main/TNCR-graphics-KB-2.gif" class="attachment-large size-large wp-image-69517" alt="">
   
 ### 🛠️ Tech Stack
   
