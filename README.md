@@ -5,8 +5,8 @@
 
 <div/>
 
-<div>
-  <img loading="lazy" style="border-radius:20px" width="300" height="200" src="https://i.gifer.com/fzPJ.gif" class="attachment-large size-large wp-image-69517" alt="">
+<div style="border-radius:20px">
+  <img loading="lazy" " width="300" height="200" src="https://i.gifer.com/fzPJ.gif" class="attachment-large size-large wp-image-69517" alt="">
 </div>
   
 ### 🛠️ Tech Stack
