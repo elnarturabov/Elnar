@@ -6,7 +6,7 @@
 <div/>
 
 <div>
-  <img loading="lazy" width="600" height="400" src="https://i.gifer.com/fzPJ.gif" class="attachment-large size-large wp-image-69517" alt="">
+  <img loading="lazy" style="border-radius:20px" width="600" height="400" src="https://i.gifer.com/fzPJ.gif" class="attachment-large size-large wp-image-69517" alt="">
 </div>
   
 ### 🛠️ Tech Stack
