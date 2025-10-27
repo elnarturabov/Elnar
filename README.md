@@ -11,7 +11,7 @@
 </div>
 
 <div>
-<img loading="lazy" align="right" "  src="https://github.com/elnarturabov/elnarturabov/blob/main/TNCR-graphics-KB-2.gif" class="attachment-large size-large wp-image-69517" alt="">
+<img loading="lazy" "  src="https://github.com/elnarturabov/elnarturabov/blob/main/TNCR-graphics-KB-2.gif" class="attachment-large size-large wp-image-69517" alt="">
 </div>
 
   
