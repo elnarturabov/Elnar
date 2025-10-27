@@ -5,7 +5,14 @@
 
 <div/>
 
-<div style="border-radius:20px;">
+<div style="display:flex;">
+<div align="left">
+
+# 📊 Profile Views 
+  
+![](https://komarev.com/ghpvc/?username=elnarturabov&color=3b82f6&style=for-the-badge&label=Profile+Views)
+</div>
+  
   <img loading="lazy" " width="240" height="160" src="https://i.gifer.com/fzPJ.gif" class="attachment-large size-large wp-image-69517" alt="">
 </div>
   
@@ -38,12 +45,7 @@
 ![Render](https://img.shields.io/badge/Render-0467DF?style=for-the-badge&logo=render&logoColor=white)
 
 </div>
-<div align="left">
 
-# 📊 Profile Views 
-  
-![](https://komarev.com/ghpvc/?username=elnarturabov&color=3b82f6&style=for-the-badge&label=Profile+Views)
-</div>
 
 ## 📊 GitHub Statistics
 
