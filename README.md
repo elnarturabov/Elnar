@@ -13,8 +13,9 @@
 <div>
 <img loading="lazy" align="right" "  src="https://github.com/elnarturabov/elnarturabov/blob/main/TNCR-graphics-KB-2.gif" class="attachment-large size-large wp-image-69517" alt="">
 </div>
+
   
-<div align="center"  >
+<div align="center">
 ### 🛠️ Tech Stack
 
 ## Frontend
