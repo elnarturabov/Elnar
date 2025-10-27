@@ -15,7 +15,7 @@
 </div>
 
   
-<div align="center">
+
 ### 🛠️ Tech Stack
 
 ## Frontend
@@ -29,7 +29,6 @@
 <img src="https://skillicons.dev/icons?i=github&theme=light" width="60" height="60" alt="GitHub"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60" alt="VS Code"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="60" height="60" alt="Postman"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="60" height="60" alt="NPM"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="60" height="60" alt="Netlify"/> 
 
-</div>
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
