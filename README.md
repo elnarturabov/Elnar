@@ -42,6 +42,20 @@
   
 </div>
 
+<div align="center">
+  
+  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=elnarturabov&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&dates=8B949E" alt="GitHub Streak"/>
+  
+</div>
+
+<div align="center">
+  
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=elnarturabov&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF" alt="Contribution Graph"/>
+  
+</div>
+
+</div>
+
 
 
 <div align="center">
