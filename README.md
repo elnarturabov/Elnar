@@ -2,11 +2,12 @@
 <div align="center">
 
 # Elnar
-### 📊 Profile Views
-
+<div align="center">
+### 📊 Profile Views  ![](https://komarev.com/ghpvc/?username=elnarturabov&color=3b82f6&style=for-the-badge&label=Profile+Views)
+</div>
 <div/>
   
-![](https://komarev.com/ghpvc/?username=elnarturabov&color=3b82f6&style=for-the-badge&label=Profile+Views)
+
 ## 🛠️ Tech Stack
 
 <div align="center">
