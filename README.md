@@ -1,7 +1,5 @@
-
-<div align="center">
-  
-# Elnar Turabov
+<div align="center">  
+# 👨‍💻 Elnar Turabov
 
 <div/>
 
