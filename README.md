@@ -3,7 +3,9 @@
 
 # Elnar
 <div align="center">
-### 📊 Profile Views  ![](https://komarev.com/ghpvc/?username=elnarturabov&color=3b82f6&style=for-the-badge&label=Profile+Views)
+### 📊 Profile Views 
+  
+![](https://komarev.com/ghpvc/?username=elnarturabov&color=3b82f6&style=for-the-badge&label=Profile+Views)
 </div>
 <div/>
   
