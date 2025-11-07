@@ -38,7 +38,7 @@
   
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=elnarturabov&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true&rank_icon=github&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&custom_title=GitHub%20Statistics" alt="GitHub Stats"/>
   
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elnarturabov&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6&hide=html,css&title_color=58A6FF&text_color=C9D1D9&custom_title=Most%20Used%20Languages" alt="Top Languages"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elnarturabov&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1118&langs_count=6&hide=html,css&title_color=58A6FF&text_color=C9D1D9&custom_title=Most%20Used%20Languages" alt="Top Languages"/>
   
 </div>
 
